@@ -10,7 +10,7 @@ public class TestBundledDistributions {
 
 	@Test
 	public void testPlugin_hive() throws Exception {
-		final DatabaseConnectorRegistry registry = new DatabaseConnectorRegistry();
+		final DatabaseConnectorRegistry registry = DatabaseConnectorRegistry.getDatabaseConnectorRegistry();
 		assertTrue(registry.hasDatabaseSystemIdentifier("hive"));
 	}
 
