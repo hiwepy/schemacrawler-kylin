@@ -369,7 +369,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<kylin-jdbc.version>2.6.1</kylin-jdbc.version>
+		<kylin-jdbc.version>3.0.0</kylin-jdbc.version>
 		<java.version>1.8</java.version>
 		<junit.version>4.12</junit.version>
 		<maven.version>3.0</maven.version>
@@ -387,7 +387,7 @@
 		<maven-surefire-plugin.vertsion>2.22.1</maven-surefire-plugin.vertsion>
 		<maven-source-plugin.version>3.0.1</maven-source-plugin.version>
 		<maven-nexus-staging-plugin.version>1.6.8</maven-nexus-staging-plugin.version>
-		<schemacrawler.version>16.2.6</schemacrawler.version>
+		<schemacrawler.version>16.3.2</schemacrawler.version>
 	</properties>
 
 	<dependencies>
