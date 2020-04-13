@@ -387,7 +387,7 @@
 		<maven-surefire-plugin.vertsion>2.22.1</maven-surefire-plugin.vertsion>
 		<maven-source-plugin.version>3.0.1</maven-source-plugin.version>
 		<maven-nexus-staging-plugin.version>1.6.8</maven-nexus-staging-plugin.version>
-		<schemacrawler.version>16.3.2</schemacrawler.version>
+		<schemacrawler.version>16.5.3</schemacrawler.version>
 	</properties>
 
 	<dependencies>
